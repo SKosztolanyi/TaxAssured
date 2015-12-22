@@ -1,0 +1,8 @@
+CustomerID,Name,City,Email,Phone_number,Total_amount_spent,Number_of_contracts,Average_amount_spent
+C005678,Arza,Brno,azra@azra.com,777999000,6789000,22,308590.9091
+C009385,Eriza,Praha,eriza@eriza.com,777666767,5789000,30,192966.6667
+C002356,Syrza,Praha,syrza@syrza.cz,777555454,5644000,45,125422.2222
+C007673,Dango,Ostrava,dango@dango.cz,777889009,5222000,20,261100
+C002233,Mugen,Olomous,mugen@mugen.com,777565787,5110000,18,283888.8889
+C012289,Intex,Praha,intex@intex.com,776655443,4900000,40,122500
+C011309,Smear,Praha,smear@smear.com,778899009,4890000,22,222272.7273
